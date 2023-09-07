@@ -1,0 +1,15 @@
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\bin\Debug\XapXepLichHoc_DB_UI.exe.config
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\bin\Debug\XapXepLichHoc_DB_UI.exe
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\bin\Debug\XapXepLichHoc_DB_UI.pdb
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.csproj.AssemblyReference.cache
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.Form1.resources
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.Properties.Resources.resources
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.csproj.GenerateResource.cache
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.csproj.CoreCompileInputs.cache
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.exe
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.pdb
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\bin\Debug\SapXepLichHoc.mdf
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\bin\Debug\SapXepLichHoc_log.ldf
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.frm_login.resources
+C:\Users\hienl\source\repos\XapXepLichHoc\XapXepLichHoc_DB_UI\obj\Debug\XapXepLichHoc_DB_UI.frm_register.resources
